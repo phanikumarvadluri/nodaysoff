@@ -9,5 +9,4 @@ public class NodaysoffApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(NodaysoffApplication.class, args);
 	}
-
 }
